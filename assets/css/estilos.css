@@ -5,13 +5,21 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+   background-image: url("../img/vista-superior-deliciosa-comida-espacio-copia_23-2148708189.avif"); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
 /* Mis trabajos */
+.container a img{
+
+  height: 50px;
+  width: 120px;
+  
+
+}
+
 
 #Mis-trabajos .image-top {
   height: 250px;
